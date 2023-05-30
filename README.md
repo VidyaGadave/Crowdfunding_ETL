@@ -10,7 +10,7 @@ In this mini project,
 3. After creating schema, we are loading these CSV file data into a Postgres database.
 
 
-## Installation
+## Installation :
 
 1. Clone the repository.
 2. Install required Python packages: pandas, openpyxl.
@@ -24,7 +24,7 @@ In this mini project,
 4. Query the database to verify the data has been loaded correctly.
 
 
-##Built With
+## Techstack used:
 1. Python
 2. Pandas
 3. PostgreSQL
